@@ -1,0 +1,13 @@
+/* This is a placeholder, you will need to add your own styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.video-container {
+    display: flex;
+    width: 100%;
+}
+
+.html5-video-player, #side-video {
+    flex: 1;
+}
